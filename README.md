@@ -12,4 +12,4 @@ Nama Sekolah : SMK Telkom Malang
 
 Nama Aplikasi : AdvancedWidget3
 
-Screenshoot : [SS AdvancedWidget3](https://github.com/rahajengvio/AdvancedWidget3/blob/master/AW3.PNG)
+Screenshoot : [SS AdvancedWidget3](https://github.com/rahajengvio/AdvancedWidget3/blob/master/AW3.png)
